@@ -1,2 +1,1 @@
-# AzDevopsBasic
 DevOps Project
