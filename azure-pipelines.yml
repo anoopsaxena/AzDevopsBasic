@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 # testing for CI case.
 # testing phase.
-
+dsagdsgaghj
 trigger:
 - main
 
